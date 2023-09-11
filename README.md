@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 I'm a backend engineer that looks to solve deep problems.<br>🚀 I'm currently working on a maze solver<br>🙇‍♂️ Currently I'm exploring more in depth about API's<br>🤝 I'm open to all different kinds of projects to collab!
+👨‍💻 I'm a backend focused engineer that looks to solve deep problems.<br>🚀 I'm currently working on a Stack overflow solution finder in Python!<br>🙇‍♂️ Right now I'm exploring more in depth about API's and working with JSON<br>🤝 I'm open to all different kinds of projects to collab!
 
 
 # 💻 Tech Stack:
