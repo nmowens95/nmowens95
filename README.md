@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 I'm a backend focused engineer that enjoys exploring data and all kinds of challenges.<br>🚀 I'm currently working on building basic webservers with the standard library in Go!<br>🙇‍♂️ Right now I'm exploring more in depth about API's and working with JSON<br>🤝 I'm open to all different kinds of projects to collab!
+👨‍💻 I'm a backend focused engineer that enjoys exploring data and working on new problems!.<br>🚀 I'm currently working on building an RSS Blog Aggregator with Go, Chi and Postgres!<br>🙇‍♂️ Right now I'm diving deeper into working woth SQl, structuring tables and migrations<br>🤝 I'm open to all different kinds of projects to collab!
 
 
 # 💻 Tech Stack:
