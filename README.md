@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 I'm a backend focused engineer that enjoys exploring data and working on new problems!.<br>🚀 I'm currently working on building an RSS Blog Aggregator with Go, Chi and Postgres!<br>🙇‍♂️ Right now I'm diving deeper into working woth SQl, structuring tables and migrations<br>🤝 I'm open to all different kinds of projects to collab!
+👨‍💻 I'm a data professional that enjoys using data to solve real world problems!.<br>🚀 I'm currently working on building more projects with Power BI! <br>🙇‍♂️ Right now I'm taking the time to learn more in depth data modeling as well as more complex Python analysis.<br>🤝 I'm open to all different kinds of projects to collab!
           
 # 💻 Tech Used:
 <div align="left">
@@ -10,10 +10,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Go logo"/> <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="Go logo"/> <img width="12"/>
 </div>
-
-# 📊 GitHub Stats:
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nmowens95&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nmowens95&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" alt="languages graph" />
-</div>
-
