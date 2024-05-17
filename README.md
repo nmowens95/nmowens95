@@ -19,5 +19,5 @@
 - [Flu Shot Dashboard](https://github.com/nmowens95/Flu-Shots-Dashboard) - Power BI & PostgreSQL
 - [Adventure Works](https://github.com/nmowens95/Adventure-Works) - Power BI (DAX & Data Modeling)
 - [Electricty Usage Analysis](https://github.com/nmowens95/Electricity-Usage-Analysis) - Python (Pandas)
-- C02 Emmissions - Tableau
+- CO2 Emmissions - Tableau
 - Restuarant Order Analysis - MySQL
