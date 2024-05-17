@@ -1,6 +1,8 @@
 # 💫 About Me:
 👨‍💻 I'm a data professional that enjoys using data to solve real world problems!<br>🚀 I'm currently working on building more projects with Power BI! <br>🙇‍♂️ Right now I'm taking the time to learn more in depth data modeling as well as more complex Python analysis.<br>🤝 I'm open to collab on any project and I also enjoy backend web work too! 
-          
+
+</br>
+
 # 💻 Tech Used:
 <div align="left">
   <img src="https://github.com/nmowens95/nmowens95/assets/126295718/8166f57c-c0fa-4261-8fcd-ea66588f7561" height="35" alt="Excel"/> <img width="15"/>
@@ -10,3 +12,12 @@
   <img src="https://github.com/nmowens95/nmowens95/assets/126295718/e26519e6-9bec-477e-8eb9-8f3770f2dbe9" height="30" alt="Power BI"/> <img width="15"/>
   <img src="https://github.com/nmowens95/nmowens95/assets/126295718/9e5c05b5-6382-4eab-85fa-4022d3e22ffc" height="30" alt="Tableau"/> <img width="15"/>
 </div>
+
+</br>
+
+# Projects
+- [Flu Shot Dashboard](https://github.com/nmowens95/Flu-Shots-Dashboard) - Power BI & MySQL
+- [Adventure Works](https://github.com/nmowens95/Adventure-Works) - Power BI (DAX & Data Modeling)
+- [Electricty Usage Analysis](https://github.com/nmowens95/Electricity-Usage-Analysis) - Python (Pandas)
+- C02 Emmissions - Tableau
+- Restuarant Order Analysis - MySQL
