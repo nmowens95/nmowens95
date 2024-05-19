@@ -19,6 +19,6 @@
 - [Flu Shot Dashboard](https://github.com/nmowens95/Flu-Shots-Dashboard) - Power BI & PostgreSQL
 - [Adventure Works](https://github.com/nmowens95/Adventure-Works) - Power BI (DAX & Data Modeling)
 - [Electricty Usage Analysis](https://github.com/nmowens95/Electricity-Usage-Analysis) - Python (Pandas)
-- CO2 Emmissions - Tableau
+- [CO2 Emmissions](https://public.tableau.com/app/profile/nathan.owens/viz/C02Emissions_17123322221570/GlobalCO2Emmissions) - Tableau
 - [Restuarant Order Analysis](https://github.com/nmowens95/Ecommerce-Analysis/blob/main/web_traffic_analysis.sql) - MySQL
 - [SQL Interview Questions](https://github.com/nmowens95/SQL-Practice) - PostgreSQL & MySQL
