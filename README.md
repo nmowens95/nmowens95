@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 I'm a data professional that enjoys using data to solve real world problems!<br>🚀 I'm currently working on building more projects with Power BI! <br>🙇‍♂️ Right now I'm taking the time to learn more in depth data modeling as well as more complex Python analysis.<br>🤝 I'm open to collab on any project and I also enjoy backend web work too! 
+👨‍💻 I'm a data professional that enjoys using data to solve real world problems!<br>🚀 I'm currently working on a Data Engineering/Science project! <br>🙇‍♂️ Right now I'm taking the time to learn Machine alearning concepts.<br>🤝 I'm open to collab on any project and I also enjoy backend web work too! 
 
 </br>
 
